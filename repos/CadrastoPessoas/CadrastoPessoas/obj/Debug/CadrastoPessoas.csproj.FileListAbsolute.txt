@@ -1,0 +1,8 @@
+C:\Users\etec\source\repos\CadrastoPessoas\CadrastoPessoas\obj\Debug\CadrastoPessoas.csproj.AssemblyReference.cache
+C:\Users\etec\source\repos\CadrastoPessoas\CadrastoPessoas\obj\Debug\CadrastoPessoas.csproj.SuggestedBindingRedirects.cache
+C:\Users\etec\source\repos\CadrastoPessoas\CadrastoPessoas\obj\Debug\CadrastoPessoas.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\CadrastoPessoas\CadrastoPessoas\bin\Debug\CadrastoPessoas.exe.config
+C:\Users\etec\source\repos\CadrastoPessoas\CadrastoPessoas\bin\Debug\CadrastoPessoas.exe
+C:\Users\etec\source\repos\CadrastoPessoas\CadrastoPessoas\bin\Debug\CadrastoPessoas.pdb
+C:\Users\etec\source\repos\CadrastoPessoas\CadrastoPessoas\obj\Debug\CadrastoPessoas.exe
+C:\Users\etec\source\repos\CadrastoPessoas\CadrastoPessoas\obj\Debug\CadrastoPessoas.pdb
